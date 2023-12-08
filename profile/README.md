@@ -15,5 +15,5 @@ Our Team
 | Muhammad Arif Amsar | A443BSY2908 | Mobile Development | [Github](https://github.com/arifamsar) & [Linkedin](https://www.linkedin.com/in/muhammad-arif-amsar-06456b12b/) |
 | Ahmad Khusnudin | A466BSY2139 | Mobile Development | [Github](https://github.com/AhmadKhusnudin) & [Linkedin](https://www.linkedin.com/in/ahmad-khusnudin/) |
 | Sanda Nurseska Yudha | M287BSY1878 | Machine Learning | [Github]() & [Linkedin]() |
-| Annisa Aghnia Nadhiroh | M198BSX0265  | Machine Learning | [Github]() & [Linkedin]() |
+| Annisa Aghnia Nadhiroh | M198BSX0265  | Machine Learning | [Github](https://github.com/Mamenajah) & [Linkedin](https://www.linkedin.com/in/annisa-nadhiroh-2627432a1/) |
 | Gugus Adhi Gumilang | M287BSY1880  | Machine Learning | [Github]() & [Linkedin]() |
