@@ -10,7 +10,7 @@ Our Team
 
 |  Name | Bangkit ID | Roles | Contacts |
 | ------------ | ------------ | ------------ | ------------ |
-| Ibnu Rizal Khusaini | C131BSY4072	 | Cloud Computing | [Github]() & [Linkedin]()  |
+| Ibnu Rizal Khusaini | C131BSY4072	 | Cloud Computing | [Github](https://github.com/ibnurizalkhusaini) & [Linkedin](www.linkedin.com/in/ibnu-rizal-khusaini-0b5b08276)  |
 | Ade Chintya Alfiana Halalutu | C182BSX3246 | Cloud Computing | [Github](https://github.com/chintya3) & [Linkedin](https://www.linkedin.com/in/ade-chintya-alfiana-halalutu-663534284/) |
 | Muhammad Arif Amsar | A443BSY2908 | Mobile Development | [Github](https://github.com/arifamsar) & [Linkedin](https://www.linkedin.com/in/muhammad-arif-amsar-06456b12b/) |
 | Ahmad Khusnudin | A466BSY2139 | Mobile Development | [Github]() & [Linkedin]() |
