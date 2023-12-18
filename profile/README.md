@@ -2,7 +2,7 @@
 
 Capstone Project for Bangkit 2023 Batch 2
 
-Project Name: Fishery
+Project Name: IwakGo
 
 Team ID: CH2-PS246
 
