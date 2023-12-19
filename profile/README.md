@@ -1,4 +1,4 @@
-# Bangkit Capstone Project
+![image](https://github.com/FisheryBangkit/.github/assets/61370488/2a289e28-5663-4c51-8419-fa4e0d12aa05)# Bangkit Capstone Project
 
 Capstone Project for Bangkit 2023 Batch 2
 
@@ -14,6 +14,6 @@ Our Team
 | Ade Chintya Alfiana Halalutu | C182BSX3246 | Cloud Computing | [Github](https://github.com/chintya3) & [Linkedin](https://www.linkedin.com/in/ade-chintya-alfiana-halalutu-663534284/) |
 | Muhammad Arif Amsar | A443BSY2908 | Mobile Development | [Github](https://github.com/arifamsar) & [Linkedin](https://www.linkedin.com/in/muhammad-arif-amsar-06456b12b/) |
 | Ahmad Khusnudin | A466BSY2139 | Mobile Development | [Github](https://github.com/AhmadKhusnudin) & [Linkedin](https://www.linkedin.com/in/ahmad-khusnudin/) |
-| Sanda Nurseska Yudha | M287BSY1878 | Machine Learning | [Github]() & [Linkedin]() |
+| Sanda Nurseska Yudha | M287BSY1878 | Machine Learning | [Github](https://github.com/sandayudha11) & [Linkedin](https://www.linkedin.com/in/sanda-nurseska-yudha-27035a270) |
 | Annisa Aghnia Nadhiroh | M198BSX0265  | Machine Learning | [Github](https://github.com/Mamenajah) & [Linkedin](https://www.linkedin.com/in/annisa-nadhiroh-2627432a1/) |
 | Gugus Adhi Gumilang | M287BSY1880  | Machine Learning | [Github]() & [Linkedin]() |
