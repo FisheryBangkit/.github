@@ -1,4 +1,4 @@
-![image](https://github.com/FisheryBangkit/.github/assets/61370488/2a289e28-5663-4c51-8419-fa4e0d12aa05)# Bangkit Capstone Project
+# Bangkit Capstone Project
 
 Capstone Project for Bangkit 2023 Batch 2
 
